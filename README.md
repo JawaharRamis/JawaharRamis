@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+
+- Passionate and dedicated master's student at TU Ilmenau.
+- I am currently learning Data Engineering/Cloud
