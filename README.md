@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 ## About Me
 
 - Passionate and dedicated master's student at TU Ilmenau.
-- I am currently learning Data Engineering/Cloud
+- Currently Intern at Plusoptix GmbH
+- Currently working on personal projects developing skills in Data Engineering and Cloud Services
+- Data Enthusiast
