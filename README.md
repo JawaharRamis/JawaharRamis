@@ -12,11 +12,34 @@
 </div>### Hi there 👋
 
 
+
+
 ## About Me
 
-- Currently working on personal projects developing skills in Data Engineering and Cloud Services
-- I’m looking to collaborate on **Data Analysis/ Engineering Projects**
-- Data Enthusiast
+👋 Hello! I'm **Jawahar Ramis**, a master's student with a deep passion for data engineering and analytics. I find joy in transforming raw data into meaningful insights, and my journey in the realm of data has been an exciting exploration.
+
+### 🚀 What I Do
+
+In my academic pursuit, I am currently enrolled in a master's program, specializing in Computer Science and Systems Engineering. Beyond the classroom, I have been actively involved in personal projects focusing on various data engineering topics. I thrive on the challenges of ETL (Extract, Transform, Load) processes, finding the journey of moving and reshaping data both fascinating and rewarding.
+
+### 💡 Why Data?
+
+My enthusiasm for working with data stems from a genuine curiosity about the stories it can tell. I believe that every dataset has a narrative waiting to be uncovered, and I am dedicated to deciphering these narratives through the lens of data engineering and analysis.
+
+### 🌱 Always Learning
+
+I consider myself a perpetual learner. The dynamic nature of the data world motivates me to stay updated with the latest technologies and industry trends. I am not just satisfied with what I know; I am constantly seeking opportunities to expand my skill set, embracing new tools and methodologies to enhance my capabilities.
+
+### 🛠️ Technical Landscape
+
+Proficient in ETL processes and data manipulation techniques, I enjoy the challenge of orchestrating seamless data flows. My toolbox includes Python, SQL, Apache Airflow, Apache Kafka, Apache Spark, AWS and I am always excited to add more tools to my arsenal.
+
+### 📈 Let's Connect!
+
+I am enthusiastic about connecting with fellow data enthusiasts, professionals, and anyone interested in the transformative power of data. If you share a passion for data engineering or have insights to share, let's connect and explore the endless possibilities that data has to offer.
+
+Feel free to reach out, whether it's to discuss data projects, share knowledge, or simply exchange ideas. The journey of uncovering insights from data is always more enjoyable when it's a collaborative effort!
+
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
@@ -40,3 +63,4 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
