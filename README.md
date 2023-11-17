@@ -1,3 +1,7 @@
+<h1 align="center">Hi✌🏻, I'm Jawahar Ramis</h1>
+<h3 align="center">Master Student @ TU Ilmenau | Intern @ Plusoptix GmbH</h3>
+<h3 align="center">Data Scientist | Data Engineer</h3>
+
 ### Hi there 👋
 
 <!--
