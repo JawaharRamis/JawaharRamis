@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jawahar Ramis</h1>
 <h3 align="center">Master Student @ TU Ilmenau | Intern @ Plusoptix GmbH</h3>
-<h3 align="center">**Aspiring Data Engineer**</h3>
+<h3 align="center">Aspiring Data Engineer</h3>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jawahar-ramis-67b0a87b/">
