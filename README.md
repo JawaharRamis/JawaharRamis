@@ -10,8 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-![](https://komarev.com/ghpvc/?username=JawaharRamis)
-## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=JawaharRamis&color=blue)
 
 👋 Hello! I'm **Jawahar Ramis**, a master's student with a deep passion for data engineering and analytics. I find joy in transforming raw data into meaningful insights, and my journey in the realm of data has been an exciting exploration.
 
