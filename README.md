@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Jawahar Ramis</h1>
 <h3 align="center">Master Student @ TU Ilmenau | Intern @ Plusoptix GmbH</h3>
-<h3 align="center">Aspiring Data Engineer</h3>
+<h3 align="center">**Aspiring Data Engineer**</h3>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/jawahar-ramis-67b0a87b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
